@@ -1,0 +1,13 @@
+{
+    "name": "gitusers/api",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "require": {
+        "pecee/simple-router": "5.4.1.7",
+        "guzzlehttp/guzzle": "^7.8"
+    }
+}
