@@ -35,5 +35,7 @@ O projeto PHP estará disponível em http://localhost:8000.
 
 
 No projeto também estão 3 vídeos de apresentação na pasta "videos".
+
 Certifique-se de ter as versões corretas do Node.js e PHP instaladas.
+
 Certifique-se de que a porta 8000 esteja disponível ao rodar o projeto PHP.
