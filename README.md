@@ -2,6 +2,8 @@
 
 Este é um projeto teste que utiliza Node.js e PHP.
 
+**O projeto está na branch Master**
+
 ## Pré-requisitos
 
 - Node.js v16.20.2
