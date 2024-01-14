@@ -14,7 +14,10 @@ Este é um projeto teste que utiliza Node.js e PHP.
 
 1. Navegue até a pasta `vueapp`:
    ```bash
-   cd vueapp
+   npm install
+   
+2. inicie o projeto:
+   ```bash
    npm run dev
 
 O projeto vue estará disponível em http://localhost:portaX.
