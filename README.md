@@ -10,7 +10,7 @@ Este é um projeto teste que utiliza Node.js e PHP.
 - PHP 7.4.33
 - Composer
 
-## Rodando o Projeto Node.js (Vue.js)
+## Rodando o Projeto front com Node.js (Vue.js)
 
 1. Navegue até a pasta `vueapp`:
    ```bash
@@ -24,7 +24,7 @@ O projeto vue estará disponível em http://localhost:portaX.
 
 Obs.: se os usuários não forem listados após o carregamento, tente buscar no campo de pesquisa. No meu ambiente algumas vezes tive este problema mas creio ser na minha máquina. Ao buscar no campo de pesquisa a tabela é renderizada.
 
-## Rodando o Projeto PHP
+## Rodando a api em PHP
 1. Na pasta api, execute o comando
    ```bash
    composer install
